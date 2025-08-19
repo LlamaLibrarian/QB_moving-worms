@@ -1,5 +1,5 @@
 '  Acknowledgement:  This original unaltered program is not my creation.
-'  This program the creator is Roberto Morassi and all credits is his.
+'  This program the creator is Roberto Morassi in Facebook, and all credits is his.
 '  Program code is here for reference only.
 
 
@@ -58,3 +58,4 @@ SCREEN 0
 SYSTEM
 FINE:
 END
+
