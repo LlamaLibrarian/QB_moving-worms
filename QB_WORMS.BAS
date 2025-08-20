@@ -1,4 +1,4 @@
-'  This is a minor modified copy, for running in QBASIC.
+'  This is a minor edited copy, for better running in QBASIC.
 
 DIM XCIRC(30) AS INTEGER, YCIRC(30) AS INTEGER, XCIRC1(30) AS INTEGER, YCIRC1(30) AS INTEGER
 XCIRC(1) = 100
@@ -53,5 +53,6 @@ YCIRC1(CODA1) = NUOVOY1
 CIRCLE (NUOVOX1, NUOVOY1), 5, L1
 
 LOOP UNTIL LEN(INKEY$)
+
 
 
