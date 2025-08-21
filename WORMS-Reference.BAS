@@ -2,7 +2,6 @@
 '  This program the creator is Roberto Morassi in Facebook, and all credits is his.
 '  Program code is here for reference only.
 
-
 DIM XCIRC(30), YCIRC(30), XCIRC1(30), YCIRC1(30)
 XCIRC(1) = 100
 YCIRC(1) = 100
@@ -58,4 +57,5 @@ SCREEN 0
 SYSTEM
 FINE:
 END
+
 
